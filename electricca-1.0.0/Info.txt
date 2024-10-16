@@ -1,0 +1,41 @@
+Key Features
+
+Bootstrap 4.1.0
+HTML5 & CSS3
+Sliders
+Burger Menu
+Hero Header
+Hero Image
+Geolocation
+Blog Section
+SEO-Friendly
+Detailed Footer
+Contact Form UI
+Clean Codebase
+Header Carousel
+On-Hover Effects
+Multipage Design
+100% Responsive
+Top Navigation Bar
+Developer-Friendly
+Mobile-First Design
+Testimonial Carousel
+Multipurpose Design
+Call-to-Action Buttons
+Page-Speed Optimized
+Cross-Browser Compatible
+Newsletter Subscription Form UI
+
+In The Box
+6+ HTML Pages
+HTML & CSS
+All Demo Pages
+JavaScript Source Files
+
+
+Library & Plugins
+Bootstrap 4
+jQuery
+Google Fonts
+Owl Carousel
+Font Awesome
